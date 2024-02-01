@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ly_bttuan2", "ly_bttuan2.dtproj", "{FBD0C6AF-906A-4C8E-AFFD-47995BF74EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD0C6AF-906A-4C8E-AFFD-47995BF74EEE}.Development|Default.ActiveCfg = Development
+		{FBD0C6AF-906A-4C8E-AFFD-47995BF74EEE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44AFFFA1-C611-40F7-9A8A-84EDB85C8E79}
+	EndGlobalSection
+EndGlobal

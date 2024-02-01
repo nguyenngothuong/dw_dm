@@ -1,0 +1,5 @@
+database:
+  server: 'THUONGSPC\SQLEXPRESS'
+  database: 'due_dwdm'
+  username: 'thuong_admin'
+  password: 'bJD8wI!MPv2b$36T'

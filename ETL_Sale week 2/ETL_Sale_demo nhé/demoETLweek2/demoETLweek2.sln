@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "demoETLweek2", "demoETLweek2.dtproj", "{601DB91B-9DF7-4B64-80AC-84B853694E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601DB91B-9DF7-4B64-80AC-84B853694E0B}.Development|Default.ActiveCfg = Development
+		{601DB91B-9DF7-4B64-80AC-84B853694E0B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {231D618B-7B00-43F8-811A-7203A4D81243}
+	EndGlobalSection
+EndGlobal
